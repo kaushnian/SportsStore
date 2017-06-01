@@ -42,3 +42,4 @@ var StaticDataSource = (function () {
     return StaticDataSource;
 }());
 exports.StaticDataSource = StaticDataSource;
+//# sourceMappingURL=static.datasource.js.map

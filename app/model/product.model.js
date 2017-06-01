@@ -10,3 +10,4 @@ var Product = (function () {
     return Product;
 }());
 exports.Product = Product;
+//# sourceMappingURL=product.model.js.map

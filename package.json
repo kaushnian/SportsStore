@@ -34,7 +34,7 @@
   "scripts": {
     "start": "concurrently \"npm run tscwatch\" \"npm run lite\" \"npm run json\" ",
     "tsc": "tsc",
-    "tscwatch": "tsc -w",
+    "tscwatch": "tsc -w -sourcemap",
     "lite": "lite-server",
     "json": "json-server data.js -p 3500 -m authMiddleware.js",
     "typings": "typings",
